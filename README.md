@@ -22,3 +22,17 @@ date || credit || debit || balance
 14/01/2012 || || 500.00 || 2500.00
 13/01/2012 || 2000.00 || || 3000.00
 10/01/2012 || 1000.00 || || 1000.00
+
+## User Stories
+
+As a client. <br>
+So that I can put money in to my account. <br>
+I can make a deposit which stores deposit amount and time of deposit. <br>
+
+As a client. <br>
+So I can take money out of my account. <br>
+I can make a withdrawal which stores withdrawal amount and time of withdrawal. <br>
+
+As a client. <br>
+So I can see a dated record of my deposit's, withdrawals and balance. <br>
+I can print a statement. <br>
